@@ -5,7 +5,7 @@
 ```
 pip install -r setup.txt
 ```
-## run
+## Run
 ```
 python main.py
 ```
